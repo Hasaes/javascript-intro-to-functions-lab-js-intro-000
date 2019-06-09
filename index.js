@@ -14,3 +14,12 @@ function whisper(string) {
     string.toLowerCase()
   )
 }
+function sayHiToGrandma(string) {
+  if (string.UpperCase === string){
+  return "YES INDEED!"
+} else if ("I love you, Grandma." === string) {
+  return "I love you, too."
+} else {
+  return "I can't hear you!"
+}
+}
