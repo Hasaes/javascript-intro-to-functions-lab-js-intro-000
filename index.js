@@ -18,7 +18,6 @@ function logWhisper(string) {
   )
 }
 
-var string = hello
 function sayHiToGrandma(string) {
   if (string === string.UpperCase){
   return "YES INDEED!"
